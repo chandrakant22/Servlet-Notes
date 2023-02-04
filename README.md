@@ -10,3 +10,5 @@
 - [Connect with me](https://linktr.ee/chandrakant22)
 
 - Check out [ASTERISC](https://linktr.ee/asterisc)
+
+# TOPICS COVERED
