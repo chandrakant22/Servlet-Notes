@@ -14,9 +14,27 @@
 
 <Table>
 
-DAY | TOPIC | Video Link <br/>
+ <tr><th>DAY </th><th>TOPIC </th><th>Video</th></tr>
 
-Day 1 : ServletRequest Interface in Servlet <br/>
+<tr>
+ <td>
+  
+   Day 1
+  
+ </td>
+ <td>
+  
+ ServletRequest Interface in Servlet 
+ 
+ </td>
+ <td>
+  
+  <a href="https://youtu.be/eLzh5XLvexI">Link</a>
+  
+ </td>
+</tr>
+ 
+ 
 Day 2 : Servlet Collaboration in Servlet<br/>
         -RequestDispatcher <br/>
         -sendRedirect<br/>
