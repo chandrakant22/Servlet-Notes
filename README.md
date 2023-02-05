@@ -11,3 +11,16 @@
 - Check out [ASTERISC](https://linktr.ee/asterisc)
 
 # TOPICS COVERED
+
+DAY | TOPIC | Video Link 
+
+Day 1 : ServletRequest Interface in Servlet
+Day 2 : Servlet Collaboration in Servlet
+        -RequestDispatcher 
+        -sendRedirect
+Day 3 : ServletConfig & ServletContext
+Day 4 : Servlet Advance (Session Tracking in Servlets)
+        -Cookies
+        -Hidden Form Field
+        -URL Rewriting
+        
