@@ -12,6 +12,8 @@
 
 # TOPICS COVERED
 
+<Table>
+
 DAY | TOPIC | Video Link <br/>
 
 Day 1 : ServletRequest Interface in Servlet <br/>
@@ -23,4 +25,6 @@ Day 4 : Servlet Advance (Session Tracking in Servlets)<br/>
         -Cookies<br/>
         -Hidden Form Field<br/>
         -URL Rewriting<br/>
+        -HttpSession<br/>
         
+</Table>
