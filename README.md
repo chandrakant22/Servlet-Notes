@@ -35,9 +35,27 @@
 </tr>
  
  
-Day 2 : Servlet Collaboration in Servlet<br/>
+ <tr>
+ <td>
+  
+   Day 2
+  
+ </td>
+ <td>
+  
+ Servlet Collaboration in Servlet <br/>
         -RequestDispatcher <br/>
         -sendRedirect<br/>
+ 
+ </td>
+ <td>
+  
+  <a href="https://youtu.be/eLzh5XLvexI">Link</a>
+  
+ </td>
+</tr>
+ 
+
 Day 3 : ServletConfig & ServletContext<br/>
 Day 4 : Servlet Advance (Session Tracking in Servlets)<br/>
         -Cookies<br/>
