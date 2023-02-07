@@ -78,7 +78,6 @@
 </tr>
  
  
-Day 3 : <br/>
 Day 4 : Servlet Advance (Session Tracking in Servlets)<br/>
         -Cookies<br/>
         -Hidden Form Field<br/>
