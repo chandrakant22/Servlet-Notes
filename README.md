@@ -43,9 +43,12 @@
  </td>
  <td>
   
- Servlet Collaboration in Servlet <br/>
-        -RequestDispatcher <br/>
-        -sendRedirect<br/>
+ Servlet Collaboration in Servlet
+  <ul>
+        <li>RequestDispatcher </li>
+        <li>sendRedirect </li>
+   
+  </ul>
  
  </td>
  <td>
