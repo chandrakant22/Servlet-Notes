@@ -59,7 +59,26 @@
 </tr>
  
 
-Day 3 : ServletConfig & ServletContext<br/>
+ <tr>
+ <td>
+  
+   Day 3
+  
+ </td>
+ <td>
+  
+ ServletConfig & ServletContext
+ 
+ </td>
+ <td>
+  
+  <a href="https://youtu.be/eLzh5XLvexI">Link</a>
+  
+ </td>
+</tr>
+ 
+ 
+Day 3 : <br/>
 Day 4 : Servlet Advance (Session Tracking in Servlets)<br/>
         -Cookies<br/>
         -Hidden Form Field<br/>
