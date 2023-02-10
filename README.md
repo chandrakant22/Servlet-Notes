@@ -87,6 +87,12 @@
  <td>
   
  Servlet Advance (Session Tracking in Servlets)
+  <ul>
+         <li> Cookies</li>
+         <li> Hidden Form Field</li>
+         <li> URL Rewriting</li>
+         <li> HttpSession</li>
+   </ul>
  
  </td>
  <td>
@@ -97,9 +103,6 @@
 </tr>
  
 Day 4 : <br/>
-        -Cookies<br/>
-        -Hidden Form Field<br/>
-        -URL Rewriting<br/>
-        -HttpSession<br/>
+
         
 </Table>
