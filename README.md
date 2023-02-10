@@ -78,7 +78,25 @@
 </tr>
  
  
-Day 4 : Servlet Advance (Session Tracking in Servlets)<br/>
+<tr>
+ <td>
+  
+   Day 4
+  
+ </td>
+ <td>
+  
+ Servlet Advance (Session Tracking in Servlets)
+ 
+ </td>
+ <td>
+  
+  <a href="https://youtu.be/eLzh5XLvexI">Link</a>
+  
+ </td>
+</tr>
+ 
+Day 4 : <br/>
         -Cookies<br/>
         -Hidden Form Field<br/>
         -URL Rewriting<br/>
