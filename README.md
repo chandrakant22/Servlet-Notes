@@ -102,7 +102,6 @@
  </td>
 </tr>
  
-Day 4 : <br/>
 
         
 </Table>
