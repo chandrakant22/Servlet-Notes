@@ -114,7 +114,6 @@
     <ul>
          <li> Filter</li>
          <li> FilterChain</li>
-         <li> URL Rewriting</li>
          <li> FilterConfig</li>
    </ul>
  
