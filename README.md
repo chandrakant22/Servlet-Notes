@@ -124,8 +124,25 @@
   
  </td>
 </tr>
+<tr>
+ <td>
+  
+   Day 6
+  
+ </td>
+ <td>
+  
+ CRUD in Servlet
 
-CRUD in Servlet
+ 
+ </td>
+ <td>
+  
+  <a href="https://youtu.be/eLzh5XLvexI">Link</a>
+  
+ </td>
+</tr>
+
  
 
         
